@@ -1,0 +1,13 @@
+#first {
+    background-color: black;
+    color: white;
+}
+.fontlist {
+    font-family: "Helvita", "Times New Roman", sans-serif;
+}
+.fontsize {
+    font-size: 28px;
+}
+#second {
+    background-color: yellow;
+}
